@@ -1,5 +1,7 @@
 ## Hello World! 👋
 
+[![wakatime](https://wakatime.com/badge/user/46e55d7a-b4bd-482c-a991-7987b2a5e706.svg)](https://wakatime.com/@46e55d7a-b4bd-482c-a991-7987b2a5e706)
+
 <!-- <img src="https://github.com/mhmmd-ysf/mhmmd-ysf/blob/master/images/contribution.png"/> -->
 <!-- Tambah komen untuk cek SSH -->
 
