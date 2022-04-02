@@ -4,7 +4,6 @@
 [![codewars](https://www.codewars.com/users/mhmmd-ysf/badges/micro)](https://www.codewars.com/users/mhmmd-ysf)
 
 <!-- <img src="https://github.com/mhmmd-ysf/mhmmd-ysf/blob/master/images/contribution.png"/> -->
-<!-- Tambah komen untuk cek SSH -->
 
 ### Recent Coding Time ⏰
 <img src="https://github.com/mhmmd-ysf/mhmmd-ysf/blob/master/images/stat.svg" alt="mhmmd-ysf WakaTime Activity"/>
