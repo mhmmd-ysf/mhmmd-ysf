@@ -5,7 +5,6 @@
 
 <!-- <img src="https://github.com/mhmmd-ysf/mhmmd-ysf/blob/master/images/contribution.png"/> -->
 <!-- Tambah komen untuk cek SSH -->
-<!-- Test hey -->
 
 ### Recent Coding Time ⏰
 <img src="https://github.com/mhmmd-ysf/mhmmd-ysf/blob/master/images/stat.svg" alt="mhmmd-ysf WakaTime Activity"/>
